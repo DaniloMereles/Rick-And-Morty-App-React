@@ -12,7 +12,7 @@ git clone https://github.com/DaniloMereles/Rick-And-Morty-App-React.git
 ```
 
 ```bash
-cd Rick-And-Morty-App
+cd Rick-And-Morty-App-React
 ```
 
 ```bash
